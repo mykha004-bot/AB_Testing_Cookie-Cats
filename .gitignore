@@ -1,2 +1,5 @@
 data/cookie_cats.csv
 data/cookie_cats_cleaned.csv
+data/retention_summary.csv
+data/segment_summary.csv
+data/cookie_cats_for_tableau.csv

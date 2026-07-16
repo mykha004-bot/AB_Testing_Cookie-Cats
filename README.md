@@ -62,4 +62,4 @@ The retention drop under gate_40 is concentrated almost entirely among the game'
 
 ## Dashboard
 
-[View the interactive Tableau dashboard here](#) (https://public.tableau.com/Cookie_Cats_AB_testing/Dashboard1#1)
+[[View the interactive Tableau dashboard here](https://public.tableau.com/app/profile/nestor.mykhailovych/viz/Cookie_Cats_AB_testing/Dashboard1#2)](#)
